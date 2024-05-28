@@ -1,0 +1,38 @@
+.custom-navbar {
+    background-color: #94aade;
+    
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px; 
+}
+
+.custom-col {
+    background-color: #f0f3f9;
+    color: rgb(20, 20, 21);
+    padding: 10px;
+    border-radius: 5px;
+    height: 650px ;
+
+    
+  }
+  
+  .custom-text {
+    font-weight: bold;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px
+  }
+
+  .font-times{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .contacts-list {
+    font-size: 164px; /* Adjust the font size as needed */
+}
+  
+
+
